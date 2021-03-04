@@ -1,0 +1,11 @@
+html, body, canvas{
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 10px;
+    border-top: 8px solid #000000;
+    border-bottom: 8px solid #000000;
+    border-left: 8px solid #000000;
+    border-right: 8px solid #000000;
+    border-radius: 2px solid #000000;
+  }
+  
